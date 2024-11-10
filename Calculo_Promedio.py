@@ -22,6 +22,6 @@ if PROMEDIO_GENERAL > 13.55:
     print("FELICIDADES PASTES")
     
 else:
-    print("Estudia mmv te quedaste a suples")
+    print("Estudia te quedaste a suples")
     print(PROMEDIO_GENERAL)
    
